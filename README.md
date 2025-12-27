@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 - Founder of **UniPlanner**, an AI-powered academic planning platform
-- MS Analytics @ Georgia Tech | BS Math & Statistics @ UNC
+- MS Analytics @ Georgia Tech | BS Applied Math & Statistics @ UNC
 - Building production software with real users
-- Interests: AI, productivity, applied ML, systems
+- Interests: AI, applied ML, systems
 
 ---
 
